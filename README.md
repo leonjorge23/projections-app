@@ -1,6 +1,6 @@
-# github-notetaker-egghead
+# projections-app
 
-[Build Your First React App](https://egghead.io/series/build-your-first-react-js-application) is an egghead lesson series.
+React expense-income projections app.
 
 ### Instructions
 
